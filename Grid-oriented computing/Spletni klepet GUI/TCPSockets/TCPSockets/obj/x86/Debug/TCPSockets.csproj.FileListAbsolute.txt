@@ -1,0 +1,9 @@
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja3\TCPSockets\TCPSockets\bin\Debug\TCPSockets.exe
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja3\TCPSockets\TCPSockets\bin\Debug\TCPSockets.pdb
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja3\TCPSockets\TCPSockets\obj\x86\Debug\TCPSockets.csproj.AssemblyReference.cache
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja3\TCPSockets\TCPSockets\obj\x86\Debug\TCPSockets.Form1.resources
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja3\TCPSockets\TCPSockets\obj\x86\Debug\TCPSockets.Properties.Resources.resources
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja3\TCPSockets\TCPSockets\obj\x86\Debug\TCPSockets.csproj.GenerateResource.cache
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja3\TCPSockets\TCPSockets\obj\x86\Debug\TCPSockets.csproj.CoreCompileInputs.cache
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja3\TCPSockets\TCPSockets\obj\x86\Debug\TCPSockets.exe
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja3\TCPSockets\TCPSockets\obj\x86\Debug\TCPSockets.pdb
