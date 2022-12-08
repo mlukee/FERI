@@ -1,0 +1,3 @@
+C:/Users/Asus/OneDrive - Univerza v Mariboru/SOLA/FERI/1. letnik/Drugi semester/Programiranje II/Projekti/Naloga1101/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/OneDrive - Univerza v Mariboru/SOLA/FERI/1. letnik/Drugi semester/Programiranje II/Projekti/Naloga1101/cmake-build-debug/CMakeFiles/Naloga1101.dir
+C:/Users/Asus/OneDrive - Univerza v Mariboru/SOLA/FERI/1. letnik/Drugi semester/Programiranje II/Projekti/Naloga1101/cmake-build-debug/CMakeFiles/rebuild_cache.dir

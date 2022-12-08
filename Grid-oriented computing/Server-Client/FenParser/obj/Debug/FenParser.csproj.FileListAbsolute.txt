@@ -1,0 +1,12 @@
+F:\Downloads\FenParser-master\FenParser-master\FenParser\bin\Debug\FenParser.dll
+F:\Downloads\FenParser-master\FenParser-master\FenParser\bin\Debug\FenParser.pdb
+F:\Downloads\FenParser-master\FenParser-master\FenParser\obj\Debug\FenParser.csproj.AssemblyReference.cache
+F:\Downloads\FenParser-master\FenParser-master\FenParser\obj\Debug\FenParser.csproj.CoreCompileInputs.cache
+F:\Downloads\FenParser-master\FenParser-master\FenParser\obj\Debug\FenParser.dll
+F:\Downloads\FenParser-master\FenParser-master\FenParser\obj\Debug\FenParser.pdb
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\FenParser\bin\Debug\FenParser.dll
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\FenParser\bin\Debug\FenParser.pdb
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\FenParser\obj\Debug\FenParser.csprojAssemblyReference.cache
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\FenParser\obj\Debug\FenParser.csproj.CoreCompileInputs.cache
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\FenParser\obj\Debug\FenParser.dll
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\FenParser\obj\Debug\FenParser.pdb

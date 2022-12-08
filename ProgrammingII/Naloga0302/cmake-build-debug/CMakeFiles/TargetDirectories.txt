@@ -1,0 +1,3 @@
+C:/Users/Asus/Documents/FERI/1.Letnik/Drugi semster/Programiranje II/projekti/Naloga0302/cmake-build-debug/CMakeFiles/Naloga0302.dir
+C:/Users/Asus/Documents/FERI/1.Letnik/Drugi semster/Programiranje II/projekti/Naloga0302/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/Documents/FERI/1.Letnik/Drugi semster/Programiranje II/projekti/Naloga0302/cmake-build-debug/CMakeFiles/rebuild_cache.dir

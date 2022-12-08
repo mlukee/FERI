@@ -1,0 +1,1 @@
+CMakeLists.txt not found in E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Racunalniske arhitekture\Vaja3\RV03-UTF-8 Select CMakeLists.txt

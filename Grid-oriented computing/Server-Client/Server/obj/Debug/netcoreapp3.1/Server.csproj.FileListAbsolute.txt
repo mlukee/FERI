@@ -1,0 +1,16 @@
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\bin\Debug\netcoreapp3.1\Server.exe
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\bin\Debug\netcoreapp3.1\Server.dll
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\bin\Debug\netcoreapp3.1\Server.pdb
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\obj\Debug\netcoreapp3.1\Server.dll
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\obj\Debug\netcoreapp3.1\Server.pdb
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\bin\Debug\netcoreapp3.1\FenParser.dll
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\bin\Debug\netcoreapp3.1\FenParser.pdb
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete

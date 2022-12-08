@@ -1,0 +1,17 @@
+Spletna posredovalnica za zmenke
+
+V spletni posredovalnici za zmenke želijo shranjevati podatke o osebah, ki iščejo druge osebe (istega ali nasprotnega spola). Poleg osnovnih podatkov
+(ime, priimek, naslov, spol, datum rojstva, ...), želijo shraniti tudi podatke o hobijih, interesnih podroˇcjih, raznih dodatnih opisih (kadilec/nekadilec), ...
+Prirejajo tudi razne prireditve in izlete, ki se jih udeležujejo redni člani posredovalnice, ki plačujejo letno članarino. Izleti so lahko v tujino ali doma,
+večdnevni ali kratki. Prireditve so razni koncerti, srečanja, razstave itd. Seveda želijo imeti tudi podatke o svoji ”uspešnosti”. Zato želijo shranjevati podatke o tem, 
+kdo je s kom skupaj (poročen/neporočen) in kako dolgo. Želijo shranjevati tudi podatke o tistih parih, ki so se razšli. 
+
+Vprašanja:
+1. Katera ženska, nekadilka, rada hodi v hribe?
+2. Izpišite vse kategorije prireditev in pripadajoče prireditve. Kategorije naj se izpišejo, tudi če v njih ni še nobene prireditve.
+3. Izračunajte trenutno starost vsakega člana glede na datum rojstva.
+4. Koliko samskih oseb se udeležilo posameznih prireditev in izletov?
+5. Katero interesno področje ima največ oseb?
+6. Izpiši moške, ki so starejši od povprečne starosti vseh oseb v podatkovni bazi.
+7. Spremeni ime osebe ”Maja Mihelič”v ”Maja Mihelič Mali”.
+8. Izbriši prireditev z nazivom ”3. srečanje najdenih in poročenih”.

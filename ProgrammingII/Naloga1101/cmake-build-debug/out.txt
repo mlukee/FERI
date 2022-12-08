@@ -1,0 +1,2 @@
+100132321,Marko,Leska,12345667,3.4.2002,Smetanova cesta 1, 2000 Maribor, Slovenija
+100456020,Ana,Gard,56345323,6.12.1999,Testna ulica 5, 2000 Maribor, Slovenija

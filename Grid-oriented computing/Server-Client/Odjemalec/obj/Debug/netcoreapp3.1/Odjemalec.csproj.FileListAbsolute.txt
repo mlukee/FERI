@@ -1,0 +1,13 @@
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Odjemalec\bin\Debug\netcoreapp3.1\Odjemalec.exe
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Odjemalec\bin\Debug\netcoreapp3.1\Odjemalec.deps.json
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Odjemalec\bin\Debug\netcoreapp3.1\Odjemalec.runtimeconfig.json
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Odjemalec\bin\Debug\netcoreapp3.1\Odjemalec.runtimeconfig.dev.json
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Odjemalec\bin\Debug\netcoreapp3.1\Odjemalec.dll
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Odjemalec\bin\Debug\netcoreapp3.1\Odjemalec.pdb
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Odjemalec\obj\Debug\netcoreapp3.1\Odjemalec.AssemblyInfoInputs.cache
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Odjemalec\obj\Debug\netcoreapp3.1\Odjemalec.AssemblyInfo.cs
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Odjemalec\obj\Debug\netcoreapp3.1\Odjemalec.csproj.CoreCompileInputs.cache
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Odjemalec\obj\Debug\netcoreapp3.1\Odjemalec.dll
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Odjemalec\obj\Debug\netcoreapp3.1\Odjemalec.pdb
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Odjemalec\obj\Debug\netcoreapp3.1\Odjemalec.genruntimeconfig.cache
+E:\OneDrive - Univerza v Mariboru\SOLA\FERI\2. letnik\Prvi semester\Mrezno usmerjeno racunanje\Vaja2\Odjemalec\obj\Debug\netcoreapp3.1\Odjemalec.csprojAssemblyReference.cache
